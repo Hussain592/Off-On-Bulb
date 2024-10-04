@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+}
+
+.onoff{
+    margin-top: 10px;
+    text-align: center;
+}
+img{
+    width: 100%;
+    max-width: 300px;
+    border-radius: 30px;
+}
+button{
+    padding: 6px 14px;
+    background-color: aliceblue;
+    color: black;
+    border-radius: 13px;
+    border: none;
+}
